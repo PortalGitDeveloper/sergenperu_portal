@@ -1,95 +1,120 @@
-<!doctype html>
-<html lang="{{ app()->getLocale() }}">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+@extends('layouts.main') @section('content')
 
-        <title>Laravel</title>
+<!-- Banner -->
+<section id="banner">
+	<h2>Alpha</h2>
+	<p>Another fine responsive site template freebie by HTML5 UP.</p>
+	<ul class="actions">
+		<li><a href="#" class="button special">Sign Up</a></li>
+		<li><a href="#" class="button">Learn More</a></li>
+	</ul>
+</section>
 
-        <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
+<!-- Main -->
+<section id="main" class="container">
 
-        <!-- Styles -->
-        <style>
-            html, body {
-                background-color: #fff;
-                color: #636b6f;
-                font-family: 'Raleway', sans-serif;
-                font-weight: 100;
-                height: 100vh;
-                margin: 0;
-            }
+	<section class="box special">
+		<header class="major">
+			<h2>
+				Introducing the ultimate mobile app <br /> for doing stuff with your
+				phone
+			</h2>
+			<p>
+				Blandit varius ut praesent nascetur eu penatibus nisi risus faucibus
+				nunc ornare<br /> adipiscing nunc adipiscing. Condimentum turpis
+				massa.
+			</p>
+		</header>
+		<span class="image featured"><img src="images/pic01.jpg" alt="" /></span>
+	</section>
 
-            .full-height {
-                height: 100vh;
-            }
+	<section class="box special features">
+		<div class="features-row">
+			<section>
+				<span class="icon major fa-bolt accent2"></span>
+				<h3>Magna etiam</h3>
+				<p>Integer volutpat ante et accumsan commophasellus sed aliquam
+					feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan
+					dolore magna aliquam veroeros.</p>
+			</section>
+			<section>
+				<span class="icon major fa-area-chart accent3"></span>
+				<h3>Ipsum dolor</h3>
+				<p>Integer volutpat ante et accumsan commophasellus sed aliquam
+					feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan
+					dolore magna aliquam veroeros.</p>
+			</section>
+		</div>
+		<div class="features-row">
+			<section>
+				<span class="icon major fa-cloud accent4"></span>
+				<h3>Sed feugiat</h3>
+				<p>Integer volutpat ante et accumsan commophasellus sed aliquam
+					feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan
+					dolore magna aliquam veroeros.</p>
+			</section>
+			<section>
+				<span class="icon major fa-lock accent5"></span>
+				<h3>Enim phasellus</h3>
+				<p>Integer volutpat ante et accumsan commophasellus sed aliquam
+					feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan
+					dolore magna aliquam veroeros.</p>
+			</section>
+		</div>
+	</section>
 
-            .flex-center {
-                align-items: center;
-                display: flex;
-                justify-content: center;
-            }
+	<div class="row">
+		<div class="6u 12u(narrower)">
 
-            .position-ref {
-                position: relative;
-            }
+			<section class="box special">
+				<span class="image featured"><img src="images/pic02.jpg" alt="" /></span>
+				<h3>Sed lorem adipiscing</h3>
+				<p>Integer volutpat ante et accumsan commophasellus sed aliquam
+					feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan
+					dolore magna aliquam veroeros.</p>
+				<ul class="actions">
+					<li><a href="#" class="button alt">Learn More</a></li>
+				</ul>
+			</section>
 
-            .top-right {
-                position: absolute;
-                right: 10px;
-                top: 18px;
-            }
+		</div>
+		<div class="6u 12u(narrower)">
 
-            .content {
-                text-align: center;
-            }
+			<section class="box special">
+				<span class="image featured"><img src="images/pic03.jpg" alt="" /></span>
+				<h3>Accumsan integer</h3>
+				<p>Integer volutpat ante et accumsan commophasellus sed aliquam
+					feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan
+					dolore magna aliquam veroeros.</p>
+				<ul class="actions">
+					<li><a href="#" class="button alt">Learn More</a></li>
+				</ul>
+			</section>
 
-            .title {
-                font-size: 84px;
-            }
+		</div>
+	</div>
 
-            .links > a {
-                color: #636b6f;
-                padding: 0 25px;
-                font-size: 12px;
-                font-weight: 600;
-                letter-spacing: .1rem;
-                text-decoration: none;
-                text-transform: uppercase;
-            }
+</section>
 
-            .m-b-md {
-                margin-bottom: 30px;
-            }
-        </style>
-    </head>
-    <body>
-        <div class="flex-center position-ref full-height">
-            @if (Route::has('login'))
-                <div class="top-right links">
-                    @auth
-                        <a href="{{ url('/home') }}">Home</a>
-                    @else
-                        <a href="{{ route('login') }}">Login</a>
-                        <a href="{{ route('register') }}">Register</a>
-                    @endauth
-                </div>
-            @endif
+<!-- CTA -->
+<section id="cta">
 
-            <div class="content">
-                <div class="title m-b-md">
-                    Welcome to SERGEN Per&uacute;!
-                </div>
+	<h2>Sign up for beta access</h2>
+	<p>Blandit varius ut praesent nascetur eu penatibus nisi risus faucibus
+		nunc.</p>
 
-                <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
-                </div>
-            </div>
-        </div>
-    </body>
-</html>
+	<form>
+		<div class="row uniform 50%">
+			<div class="8u 12u(mobilep)">
+				<input type="email" name="email" id="email"
+					placeholder="Email Address" />
+			</div>
+			<div class="4u 12u(mobilep)">
+				<input type="submit" value="Sign Up" class="fit" />
+			</div>
+		</div>
+	</form>
+
+</section>
+
+@endsection
