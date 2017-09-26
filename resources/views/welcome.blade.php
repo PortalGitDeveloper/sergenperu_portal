@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    SERGEN Per&uacute;
+                    Welcome to SERGEN Per&uacute;!
                 </div>
 
                 <div class="links">
