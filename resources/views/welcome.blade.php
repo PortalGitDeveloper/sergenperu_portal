@@ -18,13 +18,8 @@
 
 	<section class="box special">
 		<header class="major">
-			<h2>
-				Somos excelencia moral y alta productividad.<br>Trabajamos para
-				ofrecer la mejor experiencia a nuestros clientes.
-			</h2>
-			<p>
-				Contamos con un equipo de especialistas altamente calificados.<br />Tenemos
-				experiencia activa en condominios, escuelas, empresas, y campus.
+			<h2>Somos excelencia moral y alta productividad.</h2>
+			<p>Trabajamos para ofrecer la mejor experiencia a nuestros clientes.
 			</p>
 		</header>
 		<span class="image featured"><img src="images/pic01.jpg" alt="" /></span>
@@ -33,14 +28,12 @@
 	<section class="box special features">
 		<div class="features-row">
 			<section>
-				<span class="icon major fa-shield accent2"></span>
+				<span class="icon major fa-shield accent4"></span>
 				<h3>Protecci&oacute;n y seguridad privada</h3>
-				<p>Integer volutpat ante et accumsan commophasellus sed aliquam
-					feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan
-					dolore magna aliquam veroeros.</p>
+				<p></p>
 			</section>
 			<section>
-				<span class="icon major fa-bolt accent3"></span>
+				<span class="icon major fa-bolt accent5"></span>
 				<h3>Sistemas electr&oacute;nicos de seguridad</h3>
 				<p>Integer volutpat ante et accumsan commophasellus sed aliquam
 					feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan
@@ -118,12 +111,9 @@
 
 			<section class="box special">
 				<span class="image featured"><img src="images/pic02.jpg" alt="" /></span>
-				<h3>&Uacute;nete a nuestro equipo</h3>
-				<p>Si deseas formar parte de nuestro equipo, reg&iacute;strate y
-					nosotros te contactaremos.</p>
-				<ul class="actions">
-					<li><a href="#" class="button alt">Registrar</a></li>
-				</ul>
+				<h3>Nuestro fundador y actual director</h3>
+				<p>Miembro activo de las Fuerzas Armadas del Per&uacute; con m&aacute;s de 30 a&ntilde;os de experiencia
+				y abogado de profesi&oacute;n.</p>
 			</section>
 
 		</div>
@@ -131,12 +121,9 @@
 
 			<section class="box special">
 				<span class="image featured"><img src="images/pic03.jpg" alt="" /></span>
-				<h3>Cotiza nuestros servicios</h3>
-				<p>Si est&aacute;s interesado en contar con nosotros, te brindaremos
-					toda la informaci&oacute;n necesaria.</p>
-				<ul class="actions">
-					<li><a href="#" class="button alt">Cotizar</a></li>
-				</ul>
+				<h3>Cada d&iacute;a somos m&aacute;s</h3>
+				<p>Somos una gran familia con miembros excepcionales y una s&oacute;lida presencia
+				en el mercado nacional.</p>
 			</section>
 
 		</div>
@@ -147,18 +134,26 @@
 <!-- CTA -->
 <section id="cta">
 
-	<h2>Cont&aacute;ctanos</h2>
-	<p>Blandit varius ut praesent nascetur eu penatibus nisi risus faucibus
-		nunc.</p>
+	<h2>Cont&aacute;ctenos</h2>
+	<p>Escr&iacute;banos, ll&aacute;menos, o vis&iacute;tenos. Ser&aacute;
+		un placer conversar con usted.</p>
 
 	<form>
 		<div class="row uniform 50%">
-			<div class="8u 12u(mobilep)">
-				<input type="email" name="email" id="email"
-					placeholder="Email Address" />
+			<div class="12u 12u(mobilep)">
+				<input type="email" placeholder="info@sergenperu.com" disabled="disabled" />
 			</div>
-			<div class="4u 12u(mobilep)">
-				<input type="submit" value="Sign Up" class="fit" />
+		</div>
+		
+		<div class="row uniform 50%">
+			<div class="12u 12u(mobilep)">
+				<input type="text" placeholder="(01) 797 1646 / RPC 984 799 588 / RPC 998 764 495" disabled="disabled" />
+			</div>
+		</div>
+		
+		<div class="row uniform 50%">
+			<div class="12u 12u(mobilep)">
+				<input type="text" placeholder="Jr. Lampa 1137, Of. 404, Lima Cercado, Lima, Per&uacute;" disabled="disabled" />
 			</div>
 		</div>
 	</form>
