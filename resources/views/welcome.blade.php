@@ -22,7 +22,7 @@
 			<p>Trabajamos para ofrecer la mejor experiencia a nuestros clientes.
 			</p>
 		</header>
-		<span class="image featured"><img src="images/pic01.jpg" alt="" /></span>
+		<!-- <span class="image featured"><img src="images/pic01.jpg" alt="" /></span> -->
 	</section>
 
 	<section class="box special features">
