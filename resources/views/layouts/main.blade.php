@@ -6,6 +6,7 @@
 
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="Sergen Per&uacute; es una empresa peruana de protecci&oacute;n y seguridad privada dirigida por Elmer Suna, militar y abogado de profesi&oacute;n." />
 
 <!-- Styles -->
 <link href="{{ asset('css/main.css') }}" rel="stylesheet">
