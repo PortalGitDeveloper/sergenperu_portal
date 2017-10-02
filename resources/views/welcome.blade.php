@@ -9,7 +9,7 @@
 	</p>
 	<ul class="actions">
 		<li><a href="#meetus" class="button special">Con&oacute;cenos</a></li>
-		<li><a href="#findus" class="button">Ub&iacute;canos</a></li>
+		<li><a href="#cta" class="button">Ub&iacute;canos</a></li>
 	</ul>
 </section>
 
@@ -109,10 +109,9 @@
 		</div>
 	</section>
 
+	<a id="meetus"></a>
 	<div class="row">
-	
 		<div class="6u 12u(narrower)">
-			<a id="meetus"></a>
 			<section class="box special">
 				<span class="image featured"><img src="images/pic02.jpg" alt="" /></span>
 				<h3>Nuestro fundador y actual director</h3>
@@ -124,7 +123,6 @@
 		</div>
 
 		<div class="6u 12u(narrower)">
-			<a id="findus"></a>
 			<section class="box special">
 				<span class="image featured"><img src="images/pic03.jpg" alt="" /></span>
 				<h3>Cada d&iacute;a somos m&aacute;s</h3>
