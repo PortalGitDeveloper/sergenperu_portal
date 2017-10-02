@@ -17,11 +17,11 @@
 		<!-- Header -->
 		<header id="header" class="alt">
 			<h1>
-				<a href="http://portal.sergenperu.com/">Sergen</a> Per&uacute;
+				<a href="http://sergenperu.com/">Sergen</a> Per&uacute;
 			</h1>
 			<nav id="nav">
 				<ul>
-					<li><a href="http://portal.sergenperu.com/">Inicio</a></li>
+					<li><a href="http://sergenperu.com/">Inicio</a></li>
 					<li><a href="#services">Servicios</a></li>
 					<!-- <li><a href="#" class="icon fa-angle-down">Servicios</a>
 						<ul>
