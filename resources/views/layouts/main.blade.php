@@ -15,12 +15,12 @@
 		<!-- Header -->
 		<header id="header" class="alt">
 			<h1>
-				<a href="#">Sergen</a> Per&uacute;
+				<a href="http://portal.sergenperu.com/">Sergen</a> Per&uacute;
 			</h1>
 			<nav id="nav">
 				<ul>
-					<li><a href="index.html">Inicio</a></li>
-					<li><a href="index.html">Servicios</a></li>
+					<li><a href="http://portal.sergenperu.com/">Inicio</a></li>
+					<li><a href="#services">Servicios</a></li>
 					<!-- <li><a href="#" class="icon fa-angle-down">Servicios</a>
 						<ul>
 							<li><a href="generic.html">Seguridad</a></li>
@@ -33,7 +33,7 @@
 									<li><a href="#">Option Four</a></li>
 								</ul></li>
 						</ul></li> -->
-					<li><a href="#">Contacto</a></li>
+					<li><a href="#cta">Contacto</a></li>
 					<!-- <li><a href="#" class="button">Sign Up</a></li>  -->
 				</ul>
 			</nav>

@@ -8,8 +8,8 @@
 		la semana / 365 d&iacute;as al a&ntilde;o
 	</p>
 	<ul class="actions">
-		<li><a href="#" class="button special">Con&oacute;cenos</a></li>
-		<li><a href="#" class="button">Ub&iacute;canos</a></li>
+		<li><a href="#meetus" class="button special">Con&oacute;cenos</a></li>
+		<li><a href="#findus" class="button">Ub&iacute;canos</a></li>
 	</ul>
 </section>
 
@@ -26,104 +26,110 @@
 	</section>
 
 	<section class="box special features">
+		<a id="services"></a>
 		<div class="features-row">
 			<section>
-				<span class="icon major fa-shield accent4"></span>
+				<span class="icon major fa-shield accent1"></span>
 				<h3>Protecci&oacute;n y seguridad privada</h3>
-				<p></p>
+				<p>Nuestros agentes de seguridad reciben una constante
+					instrucci&oacute;n militar que nos posiciona como una oferta
+					competente y comprometida con nuestros clientes.</p>
 			</section>
 			<section>
-				<span class="icon major fa-bolt accent5"></span>
+				<span class="icon major fa-bolt accent2"></span>
 				<h3>Sistemas electr&oacute;nicos de seguridad</h3>
-				<p>Integer volutpat ante et accumsan commophasellus sed aliquam
-					feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan
-					dolore magna aliquam veroeros.</p>
+				<p>Contamos con dispositivos y t&eacute;cnicos especializados en el
+					despliegue estrat&eacute;gico de sistemas electr&oacute;nicos
+					orientados a la protecci&oacute;n, prevenci&oacute;n, y seguridad
+					global.</p>
 			</section>
 		</div>
 		<div class="features-row">
 			<section>
-				<span class="icon major fa-star accent4"></span>
+				<span class="icon major fa-star accent3"></span>
 				<h3>Operaciones especiales</h3>
-				<p>Integer volutpat ante et accumsan commophasellus sed aliquam
-					feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan
-					dolore magna aliquam veroeros.</p>
+				<p>Desplegamos operativos particulares, seguridad sobre medios de
+					transporte, b&uacute;squedas dedicadas, y eventos particulares.</p>
 			</section>
 			<section>
-				<span class="icon major fa-eye accent5"></span>
+				<span class="icon major fa-eye accent4"></span>
 				<h3>Investigaci&oacute;n de antecedentes</h3>
-				<p>Integer volutpat ante et accumsan commophasellus sed aliquam
-					feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan
-					dolore magna aliquam veroeros.</p>
+				<p>Consulta con nuestros especialistas en validaci&oacute;n y
+					obtenci&oacute;n de antecedentes de personas u organizaciones con
+					la asesor&iacute;a legal del caso.</p>
 			</section>
 		</div>
 		<div class="features-row">
 			<section>
-				<span class="icon major fa-align-justify accent4"></span>
+				<span class="icon major fa-align-justify accent5"></span>
 				<h3>Instrucci&oacute;n y capacitaci&oacute;n</h3>
-				<p>Integer volutpat ante et accumsan commophasellus sed aliquam
-					feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan
-					dolore magna aliquam veroeros.</p>
+				<p>Contamos con instructores militares y especialistas en temas de
+					prevenci&oacute;n, monitoreo, y control frente a situaciones de
+					riesgo, accidentes, desastres naturales, e inseguridad.</p>
 			</section>
 			<section>
-				<span class="icon major fa-area-chart accent5"></span>
+				<span class="icon major fa-area-chart accent6"></span>
 				<h3>Administraci&oacute;n</h3>
-				<p>Integer volutpat ante et accumsan commophasellus sed aliquam
-					feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan
-					dolore magna aliquam veroeros.</p>
+				<p>Muchas veces, directivas y nuevas organizaciones requieren de
+					asesor&iacute;a y direcci&oacute;n legal y contable que nuestros
+					especialistas pueden gestionar con &oacute;ptimos resultados.</p>
 			</section>
 		</div>
 		<div class="features-row">
 			<section>
-				<span class="icon major fa-wrench accent4"></span>
+				<span class="icon major fa-wrench accent7"></span>
 				<h3>Mantenimiento</h3>
-				<p>Integer volutpat ante et accumsan commophasellus sed aliquam
-					feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan
-					dolore magna aliquam veroeros.</p>
+				<p>Contamos con un excelente equipo de t&eacute;cnicos y
+					especialistas en mantenimiento y monitoreo de infraestructuras,
+					sistemas el&eacute;ctricos, potables, y log&iacute;stica.</p>
 			</section>
 			<section>
-				<span class="icon major fa-tree accent5"></span>
+				<span class="icon major fa-tree accent8"></span>
 				<h3>Jardiner&iacute;a</h3>
-				<p>Integer volutpat ante et accumsan commophasellus sed aliquam
-					feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan
-					dolore magna aliquam veroeros.</p>
+				<p>Nuestro equipo de jardiner&iacute;a ornamental y mantenimiento de
+					&aacute;reas verdes cuenta con experiencia en viviendas,
+					urbanizaciones, distritos, y organizaciones.</p>
 			</section>
 		</div>
 		<div class="features-row">
 			<section>
-				<span class="icon major fa-envelope accent4"></span>
+				<span class="icon major fa-envelope accent9"></span>
 				<h3>Mensajer&iacute;a</h3>
-				<p>Integer volutpat ante et accumsan commophasellus sed aliquam
-					feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan
-					dolore magna aliquam veroeros.</p>
+				<p>Transportamos correspondencias, equipos, u otros activos mediante
+					sistemas de seguimiento y monitoreo de manera confiable, segura, y
+					puntual.</p>
 			</section>
 			<section>
-				<span class="icon major fa-group accent5"></span>
+				<span class="icon major fa-group accent10"></span>
 				<h3>Asesoramiento</h3>
-				<p>Integer volutpat ante et accumsan commophasellus sed aliquam
-					feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan
-					dolore magna aliquam veroeros.</p>
+				<p>Resolvemos sus problemas estrat&eacute;gicas, de seguridad,
+					legales, contables, y tributarios con nuestros especialistas y
+					profesionales de experiencia.</p>
 			</section>
 		</div>
 	</section>
 
 	<div class="row">
+	
 		<div class="6u 12u(narrower)">
-
+			<a id="meetus"></a>
 			<section class="box special">
 				<span class="image featured"><img src="images/pic02.jpg" alt="" /></span>
 				<h3>Nuestro fundador y actual director</h3>
-				<p>Miembro activo de las Fuerzas Armadas del Per&uacute; con m&aacute;s de 30 a&ntilde;os de experiencia
-				y abogado de profesi&oacute;n.</p>
+				<p>Miembro activo de las Fuerzas Armadas del Per&uacute; con
+					m&aacute;s de 30 a&ntilde;os de experiencia y abogado de
+					profesi&oacute;n.</p>
 			</section>
 
 		</div>
-		<div class="6u 12u(narrower)">
 
+		<div class="6u 12u(narrower)">
+			<a id="findus"></a>
 			<section class="box special">
 				<span class="image featured"><img src="images/pic03.jpg" alt="" /></span>
 				<h3>Cada d&iacute;a somos m&aacute;s</h3>
-				<p>Somos una gran familia con miembros excepcionales y una s&oacute;lida presencia
-				en el mercado nacional.</p>
+				<p>Somos una gran familia con miembros excepcionales y una
+					s&oacute;lida presencia en el mercado nacional.</p>
 			</section>
 
 		</div>
@@ -141,19 +147,24 @@
 	<form>
 		<div class="row uniform 50%">
 			<div class="12u 12u(mobilep)">
-				<input type="email" placeholder="info@sergenperu.com" disabled="disabled" />
+				<input type="email" placeholder="info@sergenperu.com"
+					disabled="disabled" />
 			</div>
 		</div>
-		
+
 		<div class="row uniform 50%">
 			<div class="12u 12u(mobilep)">
-				<input type="text" placeholder="(01) 797 1646 / RPC 984 799 588 / RPC 998 764 495" disabled="disabled" />
+				<input type="text"
+					placeholder="(01) 797 1646 / RPC 984 799 588 / RPC 998 764 495"
+					disabled="disabled" />
 			</div>
 		</div>
-		
+
 		<div class="row uniform 50%">
 			<div class="12u 12u(mobilep)">
-				<input type="text" placeholder="Jr. Lampa 1137, Of. 404, Lima Cercado, Lima, Per&uacute;" disabled="disabled" />
+				<input type="text"
+					placeholder="Jr. Lampa 1137, Of. 404, Lima Cercado, Lima, Per&uacute;"
+					disabled="disabled" />
 			</div>
 		</div>
 	</form>
