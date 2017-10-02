@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Sergen Per&uacute;</title>
-<link rel="icon" href="images/sergenperu.ico"/>
+<link rel="icon" href="images/sergenperu.png"/>
 
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
