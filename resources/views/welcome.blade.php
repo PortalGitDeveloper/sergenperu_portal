@@ -3,6 +3,7 @@
 <!-- Banner -->
 <section id="banner">
 	<h2>SERGEN PER&Uacute;</h2>
+	<span class="image featured"><img src="images/sergenperu.png" alt="" height="220" width="220"/></span>
 	<p>
 		Protecci&oacute;n y seguridad privada<br> 24 horas / 7 d&iacute;as a
 		la semana / 365 d&iacute;as al a&ntilde;o
